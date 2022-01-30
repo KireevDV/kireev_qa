@@ -1,4 +1,4 @@
-[kireev_qa]
+
 
 [Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/12XZDTkvg1b5Weq_YhXAc9INCusnccQKUmobypU4jars/edit?usp=drivesdk)
 --------------------------------------------------------------
