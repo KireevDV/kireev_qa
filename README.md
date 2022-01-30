@@ -1,6 +1,6 @@
 
 
-[Пример м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оих тест кейсов](https://docs.google.com/spreadsheets/d/12XZDTkvg1b5Weq_YhXAc9INCusnccQKUmobypU4jars/edit?usp=drivesdk)
+[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/12XZDTkvg1b5Weq_YhXAc9INCusnccQKUmobypU4jars/edit?usp=drivesdk)
 --------------------------------------------------------------
 
 
