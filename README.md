@@ -1,6 +1,6 @@
 
 
-[Пример моих тест кейсов](<p><a href="mypage.html" target="_blank">https://docs.google.com/spreadsheets/d/12XZDTkvg1b5Weq_YhXAc9INCusnccQKUmobypU4jars/edit?usp=drivesdk</a>.)
+[Пример моих тест кейсов](target="_blank">https://docs.google.com/spreadsheets/d/12XZDTkvg1b5Weq_YhXAc9INCusnccQKUmobypU4jars/edit?usp=drivesdk</a>)
 --------------------------------------------------------------
 
 
